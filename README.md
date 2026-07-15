@@ -60,3 +60,9 @@
 
 ## Стек
 Python (pandas, numpy) · Power BI · Excel
+
+## Скриншоты
+<img width="1911" height="1065" alt="1" src="https://github.com/user-attachments/assets/d582adf8-2fbe-4444-91da-664af43c46d1" />
+<img width="1887" height="1066" alt="2" src="https://github.com/user-attachments/assets/80c6c2c2-97ca-41c9-af1f-398627ff159d" />
+
+
